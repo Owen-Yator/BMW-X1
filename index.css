@@ -1,0 +1,31 @@
+body{
+    background:ghostwhite;
+    font-family:arial;
+    }
+    h1{
+    font: size 40px;
+    }
+    h1{
+    colour:#000000
+    text-decoration:underline;
+    }
+    h1:hover{
+    colour:#000000
+    text-decoration:none;
+    }
+    h2{
+    font-size:18px;
+    }
+    p{
+    font-size:18px;
+    }
+    #pic{
+        display: flexbox;
+    }
+    #car1{
+        width: 50;
+        length: 50;
+        border-bottom: 50px;
+        border-radius: 20px;
+        border-right: 20px;
+    }
